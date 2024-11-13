@@ -3,6 +3,7 @@
 .moviePic{
 	width:300px;
 	height:300px;
+	opacity:90px
 }
 .movieDetail{
 	background-color:pink;
